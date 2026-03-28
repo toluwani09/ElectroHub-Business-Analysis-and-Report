@@ -1,0 +1,35 @@
+name: Auto Commit Changes
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Tolulope Olalere"
+          git config --global user.email "olastoluene@gmailcom"
+
+      - name: Check for changes
+        run: |
+          git status
+          git add .
+
+      - name: Commit changes (if any)
+        run: |
+          git diff --cached --quiet || git commit -m "Auto commit: update repo files"
+
+      - name: Push changes
+        run: |
+          git push
