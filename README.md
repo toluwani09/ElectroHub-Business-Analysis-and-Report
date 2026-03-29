@@ -130,4 +130,4 @@ Cloud & Data Solutions
 LinkedIn: www.linkedin.com/in/tolulope-olalere
 Email: tolulopeolalere4@gmail.com
 
-⭐ If you found this project insightful, feel free to connect or share feedback.
+⭐ Feel free to connect or share feedback.
