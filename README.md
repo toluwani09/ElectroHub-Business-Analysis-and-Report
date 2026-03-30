@@ -50,11 +50,11 @@ An interactive Power BI dashboard was developed to enable dynamic exploration of
 Revenue is highly concentrated, with a small number of products driving a significant portion of total sales
 High-value products dominate revenue despite similar unit sales across products
 
-![Top Products](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20sales.PNG)
+![Top Products by sales](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20sales.PNG)
 
-(https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20profit.PNG)
+![Top Products by product](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20profit.PNG)
 
-(https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20quantity.PNG)
+![Top Products by quantity](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20quantity.PNG)
 
 
 📌 Sales Trends
