@@ -36,21 +36,26 @@ Product
 Promotion
 
 📌 Data Model
-![Data Model](C:\Users\Toluwani- Windows\Desktop\Data Analysis\ElectroHub\Images\data modelling.PNG)
+![Data Model](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Images/data%20modelling.PNG)
 
 📊 Dashboard Overview
 
 An interactive Power BI dashboard was developed to enable dynamic exploration of business performance across multiple dimensions.
 
 📌 Dashboard Overview:
-![Dashboard Overview](C:\Users\Toluwani- Windows\Desktop\Data Analysis\ElectroHub\Dashboards\top and bottom 5 products analysis.PNG)
+![Dashboard Overview](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%20and%20bottom%205%20products%20analysis.PNG)
 
 🔍 Key Insights
 📌 Product Performance
 Revenue is highly concentrated, with a small number of products driving a significant portion of total sales
 High-value products dominate revenue despite similar unit sales across products
 
-![Top Products](C:\Users\Toluwani- Windows\Desktop\Data Analysis\ElectroHub\Dashboards\top and bottom 5 products analysis.PNG)
+![Top Products](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20sales.PNG)
+
+(https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20profit.PNG)
+
+(https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/top%205%20products%20by%20quantity.PNG)
+
 
 📌 Sales Trends
 Sales declined by over 26% across the observed period
@@ -59,8 +64,7 @@ Downward trend suggests potential challenges in growth and market sustainability
 A strong positive correlation exists between sales and profit
 However, profitability depends on maintaining healthy margins
 
-📌 Add Image Below:
-![Sales vs Profit](C:\Users\Toluwani- Windows\Desktop\Data Analysis\ElectroHub\Dashboards\comparing sales data.PNG)
+![Sales vs Profit](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report/blob/main/Dashboards/comparing%20sales%20data%202.PNG)
 
 📌 Promotion & Discount Analysis
 Significant inconsistency in discount strategies across promotion categories
